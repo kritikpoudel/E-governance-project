@@ -65,7 +65,7 @@ function Footer() {
               </li>
               <li className="flex items-center text-gray-200">
                 <HiOutlinePhone className="mr-3 text-2xl" />
-                <span>+977-1-4262780</span>
+                <span>+977-1-234567</span>
               </li>
               <li className="flex items-center text-gray-200">
                 <HiOutlineMail className="mr-3 text-2xl" />

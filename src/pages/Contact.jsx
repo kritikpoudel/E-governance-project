@@ -25,7 +25,7 @@ function Contact() {
                     type="text"
                     id="firstName"
                     className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                    placeholder="Ram"
+                    placeholder="Kritik"
                   />
                 </div>
                 <div>
@@ -36,7 +36,7 @@ function Contact() {
                     type="text"
                     id="lastName"
                     className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                    placeholder="Nepal"
+                    placeholder="Poudel"
                   />
                 </div>
               </div>
@@ -48,7 +48,7 @@ function Contact() {
                   type="email"
                   id="email"
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                  placeholder="ram@example.com"
+                  placeholder="Kritik@example.com"
                 />
               </div>
               <div>
@@ -101,8 +101,8 @@ function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900">Phone Number</h3>
-                    <p className="text-gray-600">+977-1-4262780</p>
-                    <p className="text-gray-600">+977-1-4263499</p>
+                    <p className="text-gray-600">+977-1-234567</p>
+                    <p className="text-gray-600">+977-1-234567</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
